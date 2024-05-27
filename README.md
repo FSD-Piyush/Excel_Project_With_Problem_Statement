@@ -1,5 +1,6 @@
 # Excel_Project_With_Problem_Statement
 Objective = An XYZ store wants to create an annual sales report of 2023. So that, the store can understand their customers and grow more sales in 2024.
+
 Description for Dashboard :-
 1. Compare the sales and order using single chart.
 2. Which month got the highest sales and orders ?
