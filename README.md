@@ -20,5 +20,5 @@ Some Insights :-
 4. Amazon, Flipkart & Myntra channels are max contributing (~80%).
 
 
-Final Conclusion to improve Store Sales :-
+Final Conclusion to improve Store Sales =
 Target **women** customers of age group (**30-49** years) living in **Maharashtra, Karnataka & Uttar Pradesh** by showing ads/offers/coupon available on **Amazon, Flipkart & Myntra**.
