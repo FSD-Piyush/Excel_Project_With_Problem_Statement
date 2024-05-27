@@ -13,4 +13,10 @@ Description for Dashboard :-
 
 ![rs](https://github.com/FSD-Piyush/Excel_Project_With_Problem_Statement/assets/113818438/dcdd8d34-fad0-40de-9370-db8a4d3ce155)
 
+Some Insights :-
+1. Woman are more likely to shop as compared to men (~65%).
+2. Maharashtra, Karnataka & Uttar Pradesh are the top 3 states (~35%).
+3. Adult age group (30-49 years) is max contributing (~50%).
+4. Amazon, Flipkart & Myntra channels are max contributing (~80%).
+
 
