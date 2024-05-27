@@ -10,3 +10,7 @@ Description for Dashboard :-
 6. Relation between age and gender based on number of orders ?
 7. Which channel is contributing to maximum sales ?
 8. Highest selling category ?, etc.
+
+![rs](https://github.com/FSD-Piyush/Excel_Project_With_Problem_Statement/assets/113818438/dcdd8d34-fad0-40de-9370-db8a4d3ce155)
+
+
